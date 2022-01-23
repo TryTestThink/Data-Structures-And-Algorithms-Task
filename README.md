@@ -1,5 +1,4 @@
-# Data-Structure
-# Binary Tree &&  B+ Tree && Calculate Postfix<h1> 
+
  ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
  ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
@@ -7,6 +6,8 @@
   <dt>Alphabetically Sorting Binary  Tree</dt>
   <dd>Sentence: the quick brown fox jumps over the lazy dog.
        Result: abcdefghijklmnopqrstuvwxyz </dd>
+ 
+ ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
   <dt>B+ Tree</dt>
   <dd>After getting the number of elements to be added to a B+ tree from the user (integer type),
