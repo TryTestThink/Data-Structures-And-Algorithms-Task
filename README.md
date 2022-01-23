@@ -18,5 +18,14 @@ adds values to the tree and then navigates through the tree to sort elements fro
   <dd>Calculate a mathematical expression given as a postfix using heap.
  </dd>
  
+  <dt>Task</dt>
+  <dd>A program that sequentially reads numbers from two different pre-created text files containing random numbers, makes two separate one-way linked lists, turns these lists into a single linked list, and sorts them.
+   Text1:103 97 182 182 120 10 93 120 150 77    Text2:47 26 182 173 55 133 132
+   
+![image](https://user-images.githubusercontent.com/69357065/150688978-0dbb2ae5-db94-4cd5-8651-b9f2b63afbae.png)
+
+   
+ </dd>
+ 
 </dl>
 
