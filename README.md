@@ -23,7 +23,7 @@ adds values to the tree and then navigates through the tree to sort elements fro
       
 ![image](https://user-images.githubusercontent.com/69357065/150688978-0dbb2ae5-db94-4cd5-8651-b9f2b63afbae.png)
    
-Text1:103 97 182 182 120 10 93 120 150 77    Text2:47 26 182 173 55 133 132
+Text1:103 97 182 182 120 10 93 120 150 77           Text2:47 26 182 173 55 133 132
 
 
    
